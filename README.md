@@ -4,7 +4,7 @@ Ablation experiments for ACCV'20
 ![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%201-1.png)
 <br>
 Fig 1-1 shows the effectiveness of different compinents in the loss function. 
-(a) Input partial face images; (b) Original images; (c) Recovered images by the loss function without 𝐿_𝑖𝑝 and 𝐿_𝐺; (d) Recovered images by the loss function without 𝐿_𝐺; (e) Recovered images by the loss function without 𝐿_𝑖𝑝; (f) Recovered images by the overall loss function.
+(a) Input partial face images; (b) Original images; (c) Recovered images by the loss function without <a href="https://www.codecogs.com/eqnedit.php?latex=L_{ip}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{ip}" title="L_{ip}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=L_{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{G}" title="L_{G}" /></a>; (d) Recovered images by the loss function without <a href="https://www.codecogs.com/eqnedit.php?latex=L_{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{G}" title="L_{G}" /></a>; (e) Recovered images by the loss function without<a href="https://www.codecogs.com/eqnedit.php?latex=L_{ip}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{ip}" title="L_{ip}" /></a>; (f) Recovered images by the overall loss function.
 <br>
 <br>
 
