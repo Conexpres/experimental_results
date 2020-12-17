@@ -13,10 +13,14 @@ Fig 2 shows the effectiveness of different compinents in the loss function.
 (a) Input partial face images; (b) Original images; (c) Recovered images by the loss function without <a href="https://www.codecogs.com/eqnedit.php?latex=L_{ip}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{ip}" title="L_{ip}" /></a> and <a href="https://www.codecogs.com/eqnedit.php?latex=L_{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{G}" title="L_{G}" /></a>; (d) Recovered images by the loss function without <a href="https://www.codecogs.com/eqnedit.php?latex=L_{G}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{G}" title="L_{G}" /></a>; (e) Recovered images by the loss function without<a href="https://www.codecogs.com/eqnedit.php?latex=L_{ip}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?L_{ip}" title="L_{ip}" /></a>; (f) Recovered images by the overall loss function.
 <br>
 <br>
-
 ![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%203.png)
 <br>
 Fig 3 shows the effectiveness of Dual-pipline discriminator.
 (a) Original images; (b) Recovered images by IR-CFR trained with single pipeline discriminator; (c) Recovered images by IP-CFR trained with Dual-pipeline discriminator.
-
-
+<br>
+<br>
+limitation 
+![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%204.png)
+<br>
+Fig 4 shows some examples that cannot be recovered well.
+(a) Input partial face images; (b)Original images; (c) The recovered results.
