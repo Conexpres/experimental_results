@@ -1,5 +1,5 @@
 # experimental_results
-Ablation experiments for ACCV'20
+Ablation experiments 
 
 ![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%201-1.png)
 <br>
