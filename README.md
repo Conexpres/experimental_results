@@ -15,7 +15,6 @@ Fig 5 shows qualitative comparisons on facescrub dataset.
 ![image](https://github.com/Conexpres/experimental_results/blob/master/table1.png)
 <br>
 Table 1 shows 1uantitative evaluation on facescrub dataset.
-
 <br>
 <br>
 Ablation experiments 
