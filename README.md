@@ -6,6 +6,18 @@ Fig 2 shows the qualitative comparisons.
 (a1) and (a2) Input partial face images; (b1) and (b2) Original images; (c1) and (c2) Inpainting results by CA; (d1) and (d2) Recovered complete face images by IP-CFR.
 <br>
 <br>
+More dataset 
+![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%205.png)
+<br>
+Fig 5 shows qualitative comparisons on facescrub dataset.
+<br>
+<br> 
+![image](https://github.com/Conexpres/experimental_results/blob/master/table1.png)
+<br>
+Table 1 shows 1uantitative evaluation on facescrub dataset.
+
+<br>
+<br>
 Ablation experiments 
 ![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%202.png)
 <br>
@@ -24,15 +36,3 @@ limitation
 <br>
 Fig 4 shows some examples that cannot be recovered well.
 (a) Input partial face images; (b)Original images; (c) The recovered results.
-<br>
-<br>
-limitation 
-![image](https://github.com/Conexpres/experimental_results/blob/master/Fig%205.png)
-<br>
-Fig 5 shows qualitative comparisons on facescrub dataset.
-<br>
-<br>
-limitation 
-![image](https://github.com/Conexpres/experimental_results/blob/master/table1.png)
-<br>
-Table 1 shows 1uantitative evaluation on facescrub dataset.
